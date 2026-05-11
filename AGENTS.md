@@ -32,6 +32,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`skill-creator`** ([skills.sh leaderboard #13](https://skills.sh/anthropics/skills/skill-creator)) — `skills/skill-creator/SKILL.md`. Read and follow it when creating new agent skills, editing or improving existing skills, running evaluations, benchmarking skill performance, or optimizing a skill description for triggering. Bundled scripts, eval viewer, and agent prompts live under `skills/skill-creator/`. Source aligned with [anthropics/skills skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) (Apache-2.0; see `skills/skill-creator/LICENSE.txt`).
 
+- **`azure-quotas`** ([skills.sh leaderboard #14](https://skills.sh/microsoft/azure-skills/azure-quotas)) — `skills/azure-quotas/SKILL.md`. Read and follow it when checking or managing Azure subscription quotas and regional capacity (CLI `az quota`, usage vs limits, quota increases, multi-region comparison). Source aligned with [microsoft/azure-skills azure-quotas](https://github.com/microsoft/azure-skills/tree/main/skills/azure-quotas) (MIT; see frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
