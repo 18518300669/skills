@@ -24,6 +24,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`agent-browser`** ([skills.sh leaderboard #9](https://skills.sh/vercel-labs/agent-browser/agent-browser)) — `skills/agent-browser/SKILL.md`. Read and follow it when automating browsers or web apps (navigation, forms, clicks, screenshots, scraping, QA, Electron, Slack, Vercel Sandbox, or AWS AgentCore). Source aligned with [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser/tree/main/skills/agent-browser) (Apache-2.0; see `skills/agent-browser/LICENSE.txt` and frontmatter in `SKILL.md`).
 
+- **`azure-compute`** ([skills.sh leaderboard #10](https://skills.sh/microsoft/azure-skills/azure-compute)) — `skills/azure-compute/SKILL.md`. Read and follow it when working with Azure VMs and VM Scale Sets (sizing and pricing, VMSS orchestration, connectivity troubleshooting, capacity reservations, or Essential Machine Management). Source aligned with [microsoft/azure-skills azure-compute](https://github.com/microsoft/azure-skills/tree/main/skills/azure-compute) (MIT; see frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
