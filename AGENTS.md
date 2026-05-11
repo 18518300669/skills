@@ -36,6 +36,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`azure-upgrade`** ([skills.sh leaderboard #15](https://skills.sh/microsoft/azure-skills/azure-upgrade)) — `skills/azure-upgrade/SKILL.md`. Read and follow it when assessing or automating upgrades of Azure workloads (plan or tier changes, Functions Consumption to Flex Consumption, Redis to Azure Managed Redis, legacy Java `com.microsoft.azure` to `com.azure`). Source aligned with [microsoft/azure-skills azure-upgrade](https://github.com/microsoft/azure-skills/tree/main/skills/azure-upgrade) (MIT; see frontmatter in `SKILL.md`).
 
+- **`vercel-composition-patterns`** ([skills.sh leaderboard #16](https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns)) — `skills/vercel-composition-patterns/SKILL.md`. Read and follow it when refactoring React components with boolean prop proliferation, building flexible component libraries, or reviewing component architecture (compound components, context providers, explicit variants, React 19 composition APIs). Source aligned with [vercel-labs/agent-skills composition-patterns](https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns) (MIT; see frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
