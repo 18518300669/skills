@@ -34,6 +34,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`azure-quotas`** ([skills.sh leaderboard #14](https://skills.sh/microsoft/azure-skills/azure-quotas)) — `skills/azure-quotas/SKILL.md`. Read and follow it when checking or managing Azure subscription quotas and regional capacity (CLI `az quota`, usage vs limits, quota increases, multi-region comparison). Source aligned with [microsoft/azure-skills azure-quotas](https://github.com/microsoft/azure-skills/tree/main/skills/azure-quotas) (MIT; see frontmatter in `SKILL.md`).
 
+- **`azure-upgrade`** ([skills.sh leaderboard #15](https://skills.sh/microsoft/azure-skills/azure-upgrade)) — `skills/azure-upgrade/SKILL.md`. Read and follow it when assessing or automating upgrades of Azure workloads (plan or tier changes, Functions Consumption to Flex Consumption, Redis to Azure Managed Redis, legacy Java `com.microsoft.azure` to `com.azure`). Source aligned with [microsoft/azure-skills azure-upgrade](https://github.com/microsoft/azure-skills/tree/main/skills/azure-upgrade) (MIT; see frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
