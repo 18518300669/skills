@@ -20,6 +20,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`azure-messaging`** ([skills.sh leaderboard #7](https://skills.sh/microsoft/azure-skills/azure-messaging)) — `skills/azure-messaging/SKILL.md`. Read and follow it when diagnosing Azure Event Hubs or Service Bus SDK issues (connections, AMQP, locks, processors, configuration). Source aligned with [microsoft/azure-skills azure-messaging](https://github.com/microsoft/azure-skills/tree/main/skills/azure-messaging) (MIT; see `skills/azure-messaging/LICENSE.txt` and frontmatter in `SKILL.md`).
 
+- **`azure-hosted-copilot-sdk`** ([skills.sh leaderboard #8](https://skills.sh/microsoft/azure-skills/azure-hosted-copilot-sdk)) — `skills/azure-hosted-copilot-sdk/SKILL.md`. Read and follow it when building, deploying, or modifying GitHub Copilot SDK apps on Azure (scaffold, BYOM, `CopilotClient`, `azd` workflows). Source aligned with [microsoft/azure-skills azure-hosted-copilot-sdk](https://github.com/microsoft/azure-skills/tree/main/skills/azure-hosted-copilot-sdk) (MIT; see `skills/azure-hosted-copilot-sdk/LICENSE.txt` and frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
