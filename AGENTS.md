@@ -8,6 +8,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`find-skills`** ([skills.sh leaderboard #1](https://skills.sh/)) — `skills/find-skills/SKILL.md`. Read and follow it when the user wants to discover or install skills from the open ecosystem (for example “find a skill for X”, “how do I do X” where a packaged skill may exist). Source aligned with [vercel-labs/skills find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills).
 
+- **`frontend-design`** ([skills.sh leaderboard #2](https://skills.sh/)) — `skills/frontend-design/SKILL.md`. Read and follow it when building or styling web UI (components, pages, dashboards, landing pages, HTML/CSS layouts, or visual polish). Source aligned with [anthropics/skills frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) (Apache-2.0; see `skills/frontend-design/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
