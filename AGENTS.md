@@ -22,6 +22,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`azure-hosted-copilot-sdk`** ([skills.sh leaderboard #8](https://skills.sh/microsoft/azure-skills/azure-hosted-copilot-sdk)) — `skills/azure-hosted-copilot-sdk/SKILL.md`. Read and follow it when building, deploying, or modifying GitHub Copilot SDK apps on Azure (scaffold, BYOM, `CopilotClient`, `azd` workflows). Source aligned with [microsoft/azure-skills azure-hosted-copilot-sdk](https://github.com/microsoft/azure-skills/tree/main/skills/azure-hosted-copilot-sdk) (MIT; see `skills/azure-hosted-copilot-sdk/LICENSE.txt` and frontmatter in `SKILL.md`).
 
+- **`agent-browser`** ([skills.sh leaderboard #9](https://skills.sh/vercel-labs/agent-browser/agent-browser)) — `skills/agent-browser/SKILL.md`. Read and follow it when automating browsers or web apps (navigation, forms, clicks, screenshots, scraping, QA, Electron, Slack, Vercel Sandbox, or AWS AgentCore). Source aligned with [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser/tree/main/skills/agent-browser) (Apache-2.0; see `skills/agent-browser/LICENSE.txt` and frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
