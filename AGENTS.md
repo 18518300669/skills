@@ -28,6 +28,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`azure-cloud-migrate`** ([skills.sh leaderboard #11](https://skills.sh/microsoft/azure-skills/azure-cloud-migrate)) — `skills/azure-cloud-migrate/SKILL.md`. Read and follow it when assessing or migrating workloads from AWS, GCP, or other clouds to Azure (Lambda→Functions, Beanstalk/Heroku/App Engine→App Service, Fargate/K8s/Cloud Run/Spring→Container Apps). Source aligned with [microsoft/azure-skills azure-cloud-migrate](https://github.com/microsoft/azure-skills/tree/main/skills/azure-cloud-migrate) (MIT; see frontmatter in `SKILL.md`).
 
+- **`azure-cost-optimization`** ([skills.sh leaderboard #12](https://skills.sh/microsoft/azure-skills/azure-cost-optimization)) — `skills/azure-cost-optimization/SKILL.md`. Read and follow it when reducing Azure spend (optimization reports, orphaned resources, rightsizing, Redis/AKS-focused cost work). Workflows and references are vendored under `skills/azure-cost/` (unified Azure Cost Management skill: query, forecast, optimization). Source aligned with [microsoft/azure-skills `skills/azure-cost`](https://github.com/microsoft/azure-skills/tree/main/skills/azure-cost) (MIT; see `skills/azure-cost/LICENSE.txt` and frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
