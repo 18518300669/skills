@@ -38,6 +38,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`vercel-composition-patterns`** ([skills.sh leaderboard #16](https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns)) — `skills/vercel-composition-patterns/SKILL.md`. Read and follow it when refactoring React components with boolean prop proliferation, building flexible component libraries, or reviewing component architecture (compound components, context providers, explicit variants, React 19 composition APIs). Source aligned with [vercel-labs/agent-skills composition-patterns](https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns) (MIT; see frontmatter in `SKILL.md`).
 
+- **`ui-ux-pro-max`** ([skills.sh leaderboard #17](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max)) — `skills/ui-ux-pro-max/SKILL.md`. Read and follow it for UI/UX design intelligence across web and mobile (styles, palettes, typography, UX guidelines, stack-specific guidance, BM25 search via `scripts/search.py`). Source aligned with [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (MIT; see `skills/ui-ux-pro-max/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
