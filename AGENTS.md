@@ -18,6 +18,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`remotion-best-practices`** ([skills.sh leaderboard #6](https://skills.sh/remotion-dev/skills/remotion-best-practices)) — `skills/remotion-best-practices/SKILL.md`. Read and follow it when writing, reviewing, or scaffolding [Remotion](https://www.remotion.dev/) code (compositions, timing, assets, captions, audio, FFmpeg, and related video-in-React workflows). Source aligned with [remotion-dev/skills](https://github.com/remotion-dev/skills/tree/main/skills/remotion) (skill package name `remotion-best-practices` on [skills.sh](https://skills.sh/remotion-dev/skills/remotion-best-practices)).
 
+- **`azure-messaging`** ([skills.sh leaderboard #7](https://skills.sh/microsoft/azure-skills/azure-messaging)) — `skills/azure-messaging/SKILL.md`. Read and follow it when diagnosing Azure Event Hubs or Service Bus SDK issues (connections, AMQP, locks, processors, configuration). Source aligned with [microsoft/azure-skills azure-messaging](https://github.com/microsoft/azure-skills/tree/main/skills/azure-messaging) (MIT; see `skills/azure-messaging/LICENSE.txt` and frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
