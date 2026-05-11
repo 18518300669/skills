@@ -14,6 +14,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`web-design-guidelines`** ([skills.sh leaderboard #4](https://skills.sh/)) — `skills/web-design-guidelines/SKILL.md`. Read and follow it when auditing UI code against Vercel Web Interface Guidelines (design, accessibility, UX). Source aligned with [vercel-labs/agent-skills web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines) (MIT; see frontmatter in `SKILL.md`).
 
+- **`microsoft-foundry`** ([skills.sh leaderboard #5](https://skills.sh/)) — `skills/microsoft-foundry/SKILL.md`. Read and follow it when working with Microsoft Foundry (agent deploy, invoke, evaluation, traces, projects, RBAC, quota, model deployment). Source aligned with [microsoft/azure-skills microsoft-foundry](https://github.com/microsoft/azure-skills/tree/main/skills/microsoft-foundry) (MIT; see `skills/microsoft-foundry/LICENSE.txt` and frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
