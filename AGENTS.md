@@ -12,6 +12,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`vercel-react-best-practices`** ([skills.sh leaderboard #3](https://skills.sh/)) — `skills/vercel-react-best-practices/SKILL.md`. Read and follow it when writing, reviewing, or refactoring React or Next.js code for performance (data fetching, bundles, rendering, re-renders). Source aligned with [vercel-labs/agent-skills react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices) (MIT; see frontmatter in `SKILL.md`).
 
+- **`web-design-guidelines`** ([skills.sh leaderboard #4](https://skills.sh/)) — `skills/web-design-guidelines/SKILL.md`. Read and follow it when auditing UI code against Vercel Web Interface Guidelines (design, accessibility, UX). Source aligned with [vercel-labs/agent-skills web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines) (MIT; see frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
