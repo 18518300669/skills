@@ -16,6 +16,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`microsoft-foundry`** ([skills.sh leaderboard #5](https://skills.sh/)) — `skills/microsoft-foundry/SKILL.md`. Read and follow it when working with Microsoft Foundry (agent deploy, invoke, evaluation, traces, projects, RBAC, quota, model deployment). Source aligned with [microsoft/azure-skills microsoft-foundry](https://github.com/microsoft/azure-skills/tree/main/skills/microsoft-foundry) (MIT; see `skills/microsoft-foundry/LICENSE.txt` and frontmatter in `SKILL.md`).
 
+- **`remotion-best-practices`** ([skills.sh leaderboard #6](https://skills.sh/remotion-dev/skills/remotion-best-practices)) — `skills/remotion-best-practices/SKILL.md`. Read and follow it when writing, reviewing, or scaffolding [Remotion](https://www.remotion.dev/) code (compositions, timing, assets, captions, audio, FFmpeg, and related video-in-React workflows). Source aligned with [remotion-dev/skills](https://github.com/remotion-dev/skills/tree/main/skills/remotion) (skill package name `remotion-best-practices` on [skills.sh](https://skills.sh/remotion-dev/skills/remotion-best-practices)).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
