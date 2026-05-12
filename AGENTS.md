@@ -46,6 +46,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`azure-enterprise-infra-planner`** ([skills.sh leaderboard #20](https://skills.sh/microsoft/azure-skills/azure-enterprise-infra-planner)) — `skills/azure-enterprise-infra-planner/SKILL.md`. Read and follow it when planning enterprise Azure infrastructure (landing zones, hub-spoke, private endpoints, RBAC, multi-region DR), producing WAF-aligned plans and Bicep or Terraform (not app-centric `azure-prepare` flows). Source aligned with [microsoft/azure-skills azure-enterprise-infra-planner](https://github.com/microsoft/azure-skills/tree/main/skills/azure-enterprise-infra-planner) (MIT; see `skills/azure-enterprise-infra-planner/LICENSE.txt` and frontmatter in `SKILL.md`).
 
+- **`azure-kubernetes`** ([skills.sh leaderboard #21](https://skills.sh/microsoft/azure-skills/azure-kubernetes)) — `skills/azure-kubernetes/SKILL.md`. Read and follow it when planning or configuring Azure Kubernetes Service (AKS): Day-0 networking and API server choices, Automatic vs Standard SKU, security, observability, upgrades, and cost. Nested skill `skills/azure-kubernetes/azure-kubernetes-automatic-readiness/SKILL.md` covers migration readiness for AKS Automatic. Source aligned with [microsoft/azure-skills azure-kubernetes](https://github.com/microsoft/azure-skills/tree/main/skills/azure-kubernetes) (MIT; see `skills/azure-kubernetes/LICENSE.txt` and frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
