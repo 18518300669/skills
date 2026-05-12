@@ -84,6 +84,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`pptx`** ([skills.sh — anthropics/skills/pptx](https://skills.sh/anthropics/skills/pptx)) — `skills/pptx/SKILL.md`. Read and follow it when creating, editing, reading, merging, or splitting PowerPoint files (.pptx), slide decks, or presentations. See `editing.md`, `pptxgenjs.md`, and helper scripts under `skills/pptx/scripts/`. Source aligned with [anthropics/skills pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) (see `skills/pptx/LICENSE.txt` and frontmatter in `SKILL.md`).
 
+- **`paper-context-resolver`** ([skills.sh — lllllllama/ai-paper-reproduction-skill/paper-context-resolver](https://skills.sh/lllllllama/ai-paper-reproduction-skill/paper-context-resolver)) — `skills/paper-context-resolver/SKILL.md`. Read and follow it for README-first AI research reproduction when the repo leaves a narrow gap (dataset splits, preprocessing, eval protocol, checkpoints, runtime assumptions) and you need targeted evidence from primary paper sources with explicit README–paper conflict notes. Source aligned with [lllllllama/ai-paper-reproduction-skill](https://github.com/lllllllama/ai-paper-reproduction-skill/tree/main/skills/paper-context-resolver) (MIT; see `skills/paper-context-resolver/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
