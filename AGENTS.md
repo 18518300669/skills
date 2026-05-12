@@ -48,6 +48,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`azure-kubernetes`** ([skills.sh leaderboard #21](https://skills.sh/microsoft/azure-skills/azure-kubernetes)) — `skills/azure-kubernetes/SKILL.md`. Read and follow it when planning or configuring Azure Kubernetes Service (AKS): Day-0 networking and API server choices, Automatic vs Standard SKU, security, observability, upgrades, and cost. Nested skill `skills/azure-kubernetes/azure-kubernetes-automatic-readiness/SKILL.md` covers migration readiness for AKS Automatic. Source aligned with [microsoft/azure-skills azure-kubernetes](https://github.com/microsoft/azure-skills/tree/main/skills/azure-kubernetes) (MIT; see `skills/azure-kubernetes/LICENSE.txt` and frontmatter in `SKILL.md`).
 
+- **`shadcn`** ([skills.sh leaderboard #22](https://skills.sh/shadcn)) — `skills/shadcn/SKILL.md`. Read and follow it when adding, searching, fixing, styling, or composing [shadcn/ui](https://ui.shadcn.com/) components, registries, presets, or any project with `components.json`. Source aligned with [shadcn/ui skills/shadcn](https://github.com/shadcn/ui/tree/main/skills/shadcn).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
