@@ -56,6 +56,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`github-actions-docs`** ([skills.sh leaderboard #25](https://skills.sh/xixu-me/skills/github-actions-docs)) — `skills/github-actions-docs/SKILL.md`. Read and follow it when answering GitHub Actions questions from official documentation (workflow syntax, runners, OIDC, reusable workflows, deployments, migration from other CI, and docs-grounded YAML). Source aligned with [xixu-me/skills github-actions-docs](https://github.com/xixu-me/skills/tree/main/skills/github-actions-docs).
 
+- **`simple`** ([skills.sh — roin-orca/skills/simple](https://skills.sh/roin-orca/skills/simple)) — `skills/simple/SKILL.md`. Read and follow it before creative or architectural work for a lightweight brainstorm: batched discovery, two options with trade-offs, explicit approval, then a short capture — minimal ceremony. Concept from [roin-orca/skills](https://github.com/roin-orca/skills/tree/main/skills/simple); this repo vendors a reviewed `SKILL.md` that matches the skills.sh summary (not a byte-for-byte copy of upstream).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
