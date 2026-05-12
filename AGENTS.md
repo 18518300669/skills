@@ -78,6 +78,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`seo-audit`** ([skills.sh — coreyhaines31/marketingskills/seo-audit](https://skills.sh/coreyhaines31/marketingskills/seo-audit)) — `skills/seo-audit/SKILL.md`. Read and follow it when auditing, reviewing, or diagnosing SEO (technical SEO, crawlability, indexation, on-page, content quality, internationalization). Includes `references/` and `evals/`. Source aligned with [coreyhaines31/marketingskills seo-audit](https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit) (MIT; see `skills/seo-audit/LICENSE.txt`).
 
+- **`pdf`** ([skills.sh — anthropics/skills/pdf](https://skills.sh/anthropics/skills/pdf)) — `skills/pdf/SKILL.md`. Read and follow it when reading, creating, merging, splitting, rotating, watermarking, encrypting, or OCR-processing PDFs, extracting text/tables/images, or filling PDF forms. See `FORMS.md` and `REFERENCE.md`; helper scripts live under `skills/pdf/scripts/`. Source aligned with [anthropics/skills pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) (see `skills/pdf/LICENSE.txt` and frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
