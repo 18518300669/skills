@@ -40,6 +40,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`ui-ux-pro-max`** ([skills.sh leaderboard #17](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max)) — `skills/ui-ux-pro-max/SKILL.md`. Read and follow it for UI/UX design intelligence across web and mobile (styles, palettes, typography, UX guidelines, stack-specific guidance, BM25 search via `scripts/search.py`). Source aligned with [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (MIT; see `skills/ui-ux-pro-max/LICENSE.txt`).
 
+- **`supabase-postgres-best-practices`** ([skills.sh leaderboard #18](https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices)) — `skills/supabase-postgres-best-practices/SKILL.md`. Read and follow it when writing, reviewing, or optimizing Postgres queries, schema designs, connection pooling, RLS, or Supabase database configuration. Source aligned with [supabase/agent-skills supabase-postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices) (MIT; see `skills/supabase-postgres-best-practices/LICENSE.txt` and frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
