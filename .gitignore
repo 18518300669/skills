@@ -1,2 +1,6 @@
 __pycache__/
 *.py[cod]
+
+# Local installs from `npx skills add` (project skills live under skills/)
+.agents/
+skills-lock.json

@@ -42,6 +42,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`supabase-postgres-best-practices`** ([skills.sh leaderboard #18](https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices)) — `skills/supabase-postgres-best-practices/SKILL.md`. Read and follow it when writing, reviewing, or optimizing Postgres queries, schema designs, connection pooling, RLS, or Supabase database configuration. Source aligned with [supabase/agent-skills supabase-postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices) (MIT; see `skills/supabase-postgres-best-practices/LICENSE.txt` and frontmatter in `SKILL.md`).
 
+- **`brainstorming`** ([skills.sh leaderboard #19](https://skills.sh/obra/superpowers/brainstorming)) — `skills/brainstorming/SKILL.md`. Read and follow it before creative or behavioral work: clarify intent, explore options, agree on a design, write a spec, then hand off to planning or implementation. Source aligned with [obra/superpowers brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) (MIT; see `skills/brainstorming/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
