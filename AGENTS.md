@@ -68,6 +68,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`lark-doc`** ([skills.sh — larksuite/cli/lark-doc](https://skills.sh/larksuite/cli/lark-doc)) — `skills/lark-doc/SKILL.md`. Read and follow it when creating or editing Feishu/Lark cloud documents (`lark-cli docs`, v2 API), fetching Docx XML or Markdown, updating blocks, media, or searching cloud docs; routing to sheets/bitable/whiteboard/drive is documented in that skill. Co-vendored sibling folders under `skills/` (`lark-shared`, `lark-drive`, `lark-sheets`, `lark-base`, `lark-whiteboard`) preserve upstream relative links. Source aligned with [larksuite/cli skills/lark-doc](https://github.com/larksuite/cli/tree/main/skills/lark-doc) (MIT; see `skills/larksuite-cli-LICENSE.txt`).
 
+- **`vercel-react-native-skills`** ([skills.sh — vercel-labs/agent-skills/vercel-react-native-skills](https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills)) — `skills/vercel-react-native-skills/SKILL.md`. Read and follow it when writing, reviewing, or refactoring React Native or Expo code for performance (lists, animations, navigation, images, state, monorepos). Source aligned with [vercel-labs/agent-skills react-native-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills) (MIT; see frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
