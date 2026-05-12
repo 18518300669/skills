@@ -76,6 +76,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`sleek-design-mobile-apps`** ([skills.sh — sleekdotdesign/agent-skills/sleek-design-mobile-apps](https://skills.sh/sleekdotdesign/agent-skills/sleek-design-mobile-apps)) — `skills/sleek-design-mobile-apps/SKILL.md`. Read and follow it when the user wants to design mobile app UI with [Sleek](https://sleek.design) (projects, chat-driven screens, screenshots, or fetching component HTML for implementation). Requires `SLEEK_API_KEY` (Pro+). Source aligned with [sleekdotdesign/agent-skills design-mobile-apps](https://github.com/sleekdotdesign/agent-skills/tree/main/skills/design-mobile-apps) (MIT; see `skills/sleek-design-mobile-apps/LICENSE.txt`).
 
+- **`seo-audit`** ([skills.sh — coreyhaines31/marketingskills/seo-audit](https://skills.sh/coreyhaines31/marketingskills/seo-audit)) — `skills/seo-audit/SKILL.md`. Read and follow it when auditing, reviewing, or diagnosing SEO (technical SEO, crawlability, indexation, on-page, content quality, internationalization). Includes `references/` and `evals/`. Source aligned with [coreyhaines31/marketingskills seo-audit](https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit) (MIT; see `skills/seo-audit/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
