@@ -54,6 +54,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`caveman`** ([skills.sh leaderboard #24](https://skills.sh/juliusbrussee/caveman/caveman)) — `skills/caveman/SKILL.md`. Read and follow it when the user wants ultra-compressed, token-efficient replies (“caveman mode”, brief technical answers) while preserving accuracy; supports lite/full/ultra and wenyan intensity levels. Source aligned with [juliusbrussee/caveman caveman](https://github.com/juliusbrussee/caveman/tree/main/skills/caveman) (MIT; see `skills/caveman/LICENSE.txt`).
 
+- **`github-actions-docs`** ([skills.sh leaderboard #25](https://skills.sh/xixu-me/skills/github-actions-docs)) — `skills/github-actions-docs/SKILL.md`. Read and follow it when answering GitHub Actions questions from official documentation (workflow syntax, runners, OIDC, reusable workflows, deployments, migration from other CI, and docs-grounded YAML). Source aligned with [xixu-me/skills github-actions-docs](https://github.com/xixu-me/skills/tree/main/skills/github-actions-docs).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
