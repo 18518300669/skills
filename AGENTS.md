@@ -64,6 +64,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`xdrop`** ([skills.sh — xixu-me/skills/xdrop](https://skills.sh/xixu-me/skills/xdrop)) — `skills/xdrop/SKILL.md`. Read and follow it when uploading or downloading files through an Xdrop server, automating encrypted share links, or using Bun scripts for `--quiet`, `--json`, expiry, and output paths. Includes `skills/xdrop/scripts/upload.mjs` and `skills/xdrop/scripts/download.mjs`. Source aligned with [xixu-me/skills xdrop](https://github.com/xixu-me/skills/tree/main/skills/xdrop).
 
+- **`grill-me`** ([skills.sh leaderboard #30](https://skills.sh/mattpocock/skills/grill-me)) — `skills/grill-me/SKILL.md`. Read and follow it when the user wants to stress-test a plan or design, get interviewed on assumptions, or says “grill me”: one question at a time, walk the decision tree, prefer codebase exploration over questions when the repo can answer. Source aligned with [mattpocock/skills productivity/grill-me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) (MIT; see `skills/grill-me/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
