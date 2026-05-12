@@ -52,6 +52,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`wonda-cli`** ([skills.sh leaderboard #23](https://skills.sh/degausai/wonda/wonda-cli)) — `skills/wonda-cli/SKILL.md`. Read and follow it when using the [Wonda CLI](https://wonda.sh) to generate or edit images, video, music, and audio from the terminal, or for LinkedIn, Reddit, and X/Twitter research and automation. Source aligned with [degausai/wonda skills/wonda-cli](https://github.com/degausai/wonda/tree/main/skills/wonda-cli).
 
+- **`caveman`** ([skills.sh leaderboard #24](https://skills.sh/juliusbrussee/caveman/caveman)) — `skills/caveman/SKILL.md`. Read and follow it when the user wants ultra-compressed, token-efficient replies (“caveman mode”, brief technical answers) while preserving accuracy; supports lite/full/ultra and wenyan intensity levels. Source aligned with [juliusbrussee/caveman caveman](https://github.com/juliusbrussee/caveman/tree/main/skills/caveman) (MIT; see `skills/caveman/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
