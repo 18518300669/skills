@@ -44,6 +44,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`brainstorming`** ([skills.sh leaderboard #19](https://skills.sh/obra/superpowers/brainstorming)) — `skills/brainstorming/SKILL.md`. Read and follow it before creative or behavioral work: clarify intent, explore options, agree on a design, write a spec, then hand off to planning or implementation. Source aligned with [obra/superpowers brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) (MIT; see `skills/brainstorming/LICENSE.txt`).
 
+- **`azure-enterprise-infra-planner`** ([skills.sh leaderboard #20](https://skills.sh/microsoft/azure-skills/azure-enterprise-infra-planner)) — `skills/azure-enterprise-infra-planner/SKILL.md`. Read and follow it when planning enterprise Azure infrastructure (landing zones, hub-spoke, private endpoints, RBAC, multi-region DR), producing WAF-aligned plans and Bicep or Terraform (not app-centric `azure-prepare` flows). Source aligned with [microsoft/azure-skills azure-enterprise-infra-planner](https://github.com/microsoft/azure-skills/tree/main/skills/azure-enterprise-infra-planner) (MIT; see `skills/azure-enterprise-infra-planner/LICENSE.txt` and frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
