@@ -50,6 +50,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`shadcn`** ([skills.sh leaderboard #22](https://skills.sh/shadcn)) — `skills/shadcn/SKILL.md`. Read and follow it when adding, searching, fixing, styling, or composing [shadcn/ui](https://ui.shadcn.com/) components, registries, presets, or any project with `components.json`. Source aligned with [shadcn/ui skills/shadcn](https://github.com/shadcn/ui/tree/main/skills/shadcn).
 
+- **`wonda-cli`** ([skills.sh leaderboard #23](https://skills.sh/degausai/wonda/wonda-cli)) — `skills/wonda-cli/SKILL.md`. Read and follow it when using the [Wonda CLI](https://wonda.sh) to generate or edit images, video, music, and audio from the terminal, or for LinkedIn, Reddit, and X/Twitter research and automation. Source aligned with [degausai/wonda skills/wonda-cli](https://github.com/degausai/wonda/tree/main/skills/wonda-cli).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
