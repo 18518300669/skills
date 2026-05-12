@@ -72,6 +72,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`vercel-react-native-skills`** ([skills.sh — vercel-labs/agent-skills/vercel-react-native-skills](https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills)) — `skills/vercel-react-native-skills/SKILL.md`. Read and follow it when writing, reviewing, or refactoring React Native or Expo code for performance (lists, animations, navigation, images, state, monorepos). Source aligned with [vercel-labs/agent-skills react-native-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills) (MIT; see frontmatter in `SKILL.md`).
 
+- **`sleek-design-mobile-apps`** ([skills.sh — sleekdotdesign/agent-skills/sleek-design-mobile-apps](https://skills.sh/sleekdotdesign/agent-skills/sleek-design-mobile-apps)) — `skills/sleek-design-mobile-apps/SKILL.md`. Read and follow it when the user wants to design mobile app UI with [Sleek](https://sleek.design) (projects, chat-driven screens, screenshots, or fetching component HTML for implementation). Requires `SLEEK_API_KEY` (Pro+). Source aligned with [sleekdotdesign/agent-skills design-mobile-apps](https://github.com/sleekdotdesign/agent-skills/tree/main/skills/design-mobile-apps) (MIT; see `skills/sleek-design-mobile-apps/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
