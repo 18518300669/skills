@@ -58,6 +58,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`simple`** ([skills.sh — roin-orca/skills/simple](https://skills.sh/roin-orca/skills/simple)) — `skills/simple/SKILL.md`. Read and follow it before creative or architectural work for a lightweight brainstorm: batched discovery, two options with trade-offs, explicit approval, then a short capture — minimal ceremony. Concept from [roin-orca/skills](https://github.com/roin-orca/skills/tree/main/skills/simple); this repo vendors a reviewed `SKILL.md` that matches the skills.sh summary (not a byte-for-byte copy of upstream).
 
+- **`xget`** ([skills.sh — xixu-me/skills/xget](https://skills.sh/xixu-me/skills/xget)) — `skills/xget/SKILL.md`. Read and follow it when tasks involve Xget URL rewriting, registry or package acceleration, container or inference API routing, CI/CD, or wiring `XGET_BASE_URL` and live README “Use Cases” guidance into a project. Includes `skills/xget/scripts/xget.mjs` and `skills/xget/references/REFERENCE.md`. Source aligned with [xixu-me/skills xget](https://github.com/xixu-me/skills/tree/main/skills/xget).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
