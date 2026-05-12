@@ -62,6 +62,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`tzst`** ([skills.sh — xixu-me/skills/tzst](https://skills.sh/xixu-me/skills/tzst)) — `skills/tzst/SKILL.md`. Read and follow it when working with the `tzst` CLI for `.tzst` / `.tar.zst` archives (create, extract, list, test, filters, conflict resolution, JSON output, or install paths). Includes `skills/tzst/references/cli-reference.md`. Source aligned with [xixu-me/skills tzst](https://github.com/xixu-me/skills/tree/main/skills/tzst).
 
+- **`xdrop`** ([skills.sh — xixu-me/skills/xdrop](https://skills.sh/xixu-me/skills/xdrop)) — `skills/xdrop/SKILL.md`. Read and follow it when uploading or downloading files through an Xdrop server, automating encrypted share links, or using Bun scripts for `--quiet`, `--json`, expiry, and output paths. Includes `skills/xdrop/scripts/upload.mjs` and `skills/xdrop/scripts/download.mjs`. Source aligned with [xixu-me/skills xdrop](https://github.com/xixu-me/skills/tree/main/skills/xdrop).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
