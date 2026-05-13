@@ -122,6 +122,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`impeccable`** ([skills.sh — pbakaus/impeccable/impeccable](https://skills.sh/pbakaus/impeccable/impeccable)) — `skills/impeccable/SKILL.md`. Read and follow it for production-grade frontend design iteration: PRODUCT.md / DESIGN.md context, register-specific guidance (brand vs product), subcommand workflows under `skills/impeccable/reference/` (craft, shape, teach, critique, audit, polish, live, and others), and helper scripts under `skills/impeccable/scripts/` (run with `node skills/impeccable/scripts/...` from the repository root). Source aligned with [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (Apache-2.0; see `skills/impeccable/LICENSE.txt` and `skills/impeccable/NOTICE.md`).
 
+- **`next-best-practices`** ([skills.sh — vercel-labs/next-skills](https://skills.sh/vercel-labs/next-skills)) — `skills/next-best-practices/SKILL.md`. Read and follow it when writing, reviewing, or refactoring Next.js App Router code (file conventions, RSC boundaries, async `cookies`/`headers`/`params`, directives, data patterns, route handlers, metadata and OG images, `next/image` and `next/font`, bundling, scripts, hydration, Suspense, parallel and intercepting routes, self-hosting, and debugging). Source aligned with [vercel-labs/next-skills next-best-practices](https://github.com/vercel-labs/next-skills/tree/main/skills/next-best-practices) (MIT in skill frontmatter).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
