@@ -4,3 +4,6 @@ __pycache__/
 # Local installs from `npx skills add` (project skills live under skills/)
 .agents/
 skills-lock.json
+
+# Critique / Impeccable runtime snapshots (see skills/critique)
+.impeccable/
