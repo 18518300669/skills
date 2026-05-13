@@ -110,6 +110,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`writing-plans`** ([skills.sh — obra/superpowers/writing-plans](https://skills.sh/obra/superpowers/writing-plans)) — `skills/writing-plans/SKILL.md`. Read and follow it when you have a spec or multi-step requirements and need a detailed implementation plan before coding (bite-sized tasks, no placeholders, self-review). Includes `plan-document-reviewer-prompt.md`. Source aligned with [obra/superpowers writing-plans](https://github.com/obra/superpowers/tree/main/skills/writing-plans) (MIT; see `skills/writing-plans/LICENSE.txt`).
 
+- **`docx`** ([skills.sh — anthropics/skills/docx](https://skills.sh/anthropics/skills/docx)) — `skills/docx/SKILL.md`. Read and follow it when creating, reading, editing, or analyzing Word documents (.docx): tracked changes, comments, validation, templates, mail merge, OOXML unpack/repack, or converting to PDF. Includes `skills/docx/scripts/`. Source aligned with [anthropics/skills docx](https://github.com/anthropics/skills/tree/main/skills/docx) (see `skills/docx/LICENSE.txt` and frontmatter in `SKILL.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
