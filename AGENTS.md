@@ -112,6 +112,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`docx`** ([skills.sh — anthropics/skills/docx](https://skills.sh/anthropics/skills/docx)) — `skills/docx/SKILL.md`. Read and follow it when creating, reading, editing, or analyzing Word documents (.docx): tracked changes, comments, validation, templates, mail merge, OOXML unpack/repack, or converting to PDF. Includes `skills/docx/scripts/`. Source aligned with [anthropics/skills docx](https://github.com/anthropics/skills/tree/main/skills/docx) (see `skills/docx/LICENSE.txt` and frontmatter in `SKILL.md`).
 
+- **`polish`** ([skills.sh — pbakaus/impeccable/polish](https://skills.sh/pbakaus/impeccable/polish)) — `skills/polish/SKILL.md`. Read and follow it for a final UI quality pass (alignment, spacing, typography, states, motion, copy, responsiveness, performance hygiene) after functionality is complete. Procedure in `skills/polish/reference/polish.md`; pair with `skills/frontend-design/SKILL.md` and `skills/web-design-guidelines/SKILL.md` for design context. Source aligned with [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (`skill/reference/polish.md`; Apache-2.0; see `skills/polish/LICENSE.txt` and `skills/polish/NOTICE.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
