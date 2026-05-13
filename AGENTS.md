@@ -98,6 +98,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`improve-codebase-architecture`** ([skills.sh — mattpocock/skills/improve-codebase-architecture](https://skills.sh/mattpocock/skills/improve-codebase-architecture)) — `skills/improve-codebase-architecture/SKILL.md`. Read and follow it when the user wants to improve architecture, find refactoring opportunities, consolidate tightly-coupled modules, or make a codebase more testable and AI-navigable (deepening, seams, CONTEXT.md, ADRs). Includes `DEEPENING.md`, `INTERFACE-DESIGN.md`, `LANGUAGE.md`, and `references/` for CONTEXT and ADR formats. Source aligned with [mattpocock/skills engineering/improve-codebase-architecture](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) (MIT; see `skills/improve-codebase-architecture/LICENSE.txt`).
 
+- **`extract-design-system`** ([skills.sh — arvindrk/extract-design-system/extract-design-system](https://skills.sh/arvindrk/extract-design-system/extract-design-system)) — `skills/extract-design-system/SKILL.md`. Read and follow it when the user wants to extract design primitives from a public website into starter token files (via `npx extract-design-system`, Playwright/Chromium, `.extract-design-system/`, `design-system/tokens.*`). See `references/workflow.md` and `references/outputs.md`. Source aligned with [arvindrk/extract-design-system](https://github.com/arvindrk/extract-design-system/tree/main/skills/extract-design-system) (MIT; see `skills/extract-design-system/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
