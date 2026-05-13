@@ -96,6 +96,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`using-superpowers`** ([skills.sh — obra/superpowers/using-superpowers](https://skills.sh/obra/superpowers/using-superpowers)) — `skills/using-superpowers/SKILL.md`. Read and follow it at the start of relevant work: when a skill might apply (even slightly), load and follow it before acting; instruction priority and platform tool mapping live in that file and `skills/using-superpowers/references/`. Source aligned with [obra/superpowers using-superpowers](https://github.com/obra/superpowers/tree/main/skills/using-superpowers) (MIT; see `skills/using-superpowers/LICENSE.txt`).
 
+- **`improve-codebase-architecture`** ([skills.sh — mattpocock/skills/improve-codebase-architecture](https://skills.sh/mattpocock/skills/improve-codebase-architecture)) — `skills/improve-codebase-architecture/SKILL.md`. Read and follow it when the user wants to improve architecture, find refactoring opportunities, consolidate tightly-coupled modules, or make a codebase more testable and AI-navigable (deepening, seams, CONTEXT.md, ADRs). Includes `DEEPENING.md`, `INTERFACE-DESIGN.md`, `LANGUAGE.md`, and `references/` for CONTEXT and ADR formats. Source aligned with [mattpocock/skills engineering/improve-codebase-architecture](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) (MIT; see `skills/improve-codebase-architecture/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
