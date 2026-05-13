@@ -94,6 +94,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`paper-context-resolver`** ([skills.sh — lllllllama/ai-paper-reproduction-skill/paper-context-resolver](https://skills.sh/lllllllama/ai-paper-reproduction-skill/paper-context-resolver)) — `skills/paper-context-resolver/SKILL.md`. Read and follow it for README-first AI research reproduction when the repo leaves a narrow gap (dataset splits, preprocessing, eval protocol, checkpoints, runtime assumptions) and you need targeted evidence from primary paper sources with explicit README–paper conflict notes. Source aligned with [lllllllama/ai-paper-reproduction-skill](https://github.com/lllllllama/ai-paper-reproduction-skill/tree/main/skills/paper-context-resolver) (MIT; see `skills/paper-context-resolver/LICENSE.txt`).
 
+- **`using-superpowers`** ([skills.sh — obra/superpowers/using-superpowers](https://skills.sh/obra/superpowers/using-superpowers)) — `skills/using-superpowers/SKILL.md`. Read and follow it at the start of relevant work: when a skill might apply (even slightly), load and follow it before acting; instruction priority and platform tool mapping live in that file and `skills/using-superpowers/references/`. Source aligned with [obra/superpowers using-superpowers](https://github.com/obra/superpowers/tree/main/skills/using-superpowers) (MIT; see `skills/using-superpowers/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
