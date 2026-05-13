@@ -106,6 +106,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`tdd`** ([skills.sh — mattpocock/skills/tdd](https://skills.sh/mattpocock/skills/tdd)) — `skills/tdd/SKILL.md`. Read and follow it for test-driven development with a red-green-refactor loop, vertical slices (tracer bullets), and behavior-focused tests; supporting notes in `deep-modules.md`, `interface-design.md`, `mocking.md`, `refactoring.md`, and `tests.md`. Source aligned with [mattpocock/skills engineering/tdd](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd) (MIT; see `skills/tdd/LICENSE.txt`).
 
+- **`writing-plans`** ([skills.sh — obra/superpowers/writing-plans](https://skills.sh/obra/superpowers/writing-plans)) — `skills/writing-plans/SKILL.md`. Read and follow it when you have a spec or multi-step requirements and need a detailed implementation plan before coding (bite-sized tasks, no placeholders, self-review). Includes `plan-document-reviewer-prompt.md`. Source aligned with [obra/superpowers writing-plans](https://github.com/obra/superpowers/tree/main/skills/writing-plans) (MIT; see `skills/writing-plans/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
