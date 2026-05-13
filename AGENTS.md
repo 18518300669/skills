@@ -120,6 +120,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`polish`** ([skills.sh — pbakaus/impeccable/polish](https://skills.sh/pbakaus/impeccable/polish)) — `skills/polish/SKILL.md`. Read and follow it for a final UI quality pass (alignment, spacing, typography, states, motion, copy, responsiveness, performance hygiene) after functionality is complete. Procedure in `skills/polish/reference/polish.md`; pair with `skills/frontend-design/SKILL.md` and `skills/web-design-guidelines/SKILL.md` for design context. Source aligned with [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (`skill/reference/polish.md`; Apache-2.0; see `skills/polish/LICENSE.txt` and `skills/polish/NOTICE.md`).
 
+- **`impeccable`** ([skills.sh — pbakaus/impeccable/impeccable](https://skills.sh/pbakaus/impeccable/impeccable)) — `skills/impeccable/SKILL.md`. Read and follow it for production-grade frontend design iteration: PRODUCT.md / DESIGN.md context, register-specific guidance (brand vs product), subcommand workflows under `skills/impeccable/reference/` (craft, shape, teach, critique, audit, polish, live, and others), and helper scripts under `skills/impeccable/scripts/` (run with `node skills/impeccable/scripts/...` from the repository root). Source aligned with [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (Apache-2.0; see `skills/impeccable/LICENSE.txt` and `skills/impeccable/NOTICE.md`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
