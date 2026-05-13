@@ -104,6 +104,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`extract-design-system`** ([skills.sh — arvindrk/extract-design-system/extract-design-system](https://skills.sh/arvindrk/extract-design-system/extract-design-system)) — `skills/extract-design-system/SKILL.md`. Read and follow it when the user wants to extract design primitives from a public website into starter token files (via `npx extract-design-system`, Playwright/Chromium, `.extract-design-system/`, `design-system/tokens.*`). See `references/workflow.md` and `references/outputs.md`. Source aligned with [arvindrk/extract-design-system](https://github.com/arvindrk/extract-design-system/tree/main/skills/extract-design-system) (MIT; see `skills/extract-design-system/LICENSE.txt`).
 
+- **`tdd`** ([skills.sh — mattpocock/skills/tdd](https://skills.sh/mattpocock/skills/tdd)) — `skills/tdd/SKILL.md`. Read and follow it for test-driven development with a red-green-refactor loop, vertical slices (tracer bullets), and behavior-focused tests; supporting notes in `deep-modules.md`, `interface-design.md`, `mocking.md`, `refactoring.md`, and `tests.md`. Source aligned with [mattpocock/skills engineering/tdd](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd) (MIT; see `skills/tdd/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
