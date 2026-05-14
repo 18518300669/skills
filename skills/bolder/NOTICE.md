@@ -1,0 +1,1 @@
+The procedural content in `reference/bolder.md` is vendored from the **impeccable** skill in [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (`.cursor/skills/impeccable/reference/bolder.md`, mirrored under other agent harness paths). Upstream skill metadata: Apache License 2.0; see `LICENSE.txt` and upstream `NOTICE.md` for full attribution.
