@@ -1,0 +1,1 @@
+The procedural content in `reference/delight.md` is vendored from the **impeccable** skill in [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (`skill/reference/delight.md`, mirrored under other agent harness paths). Upstream skill metadata: Apache License 2.0; see `LICENSE.txt` and upstream `NOTICE.md` for full attribution.
