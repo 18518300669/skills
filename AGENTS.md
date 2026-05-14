@@ -164,6 +164,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`to-prd`** ([skills.sh — mattpocock/skills/to-prd](https://skills.sh/mattpocock/skills/to-prd)) — `skills/to-prd/SKILL.md`. Read and follow it when the user wants a PRD synthesized from current context and codebase understanding (no user interview), then published to the project issue tracker with the `ready-for-agent` triage label. Source aligned with [mattpocock/skills to-prd](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-prd) (MIT; see `skills/to-prd/LICENSE.txt`).
 
+- **`to-issues`** ([skills.sh — mattpocock/skills/to-issues](https://skills.sh/mattpocock/skills/to-issues)) — `skills/to-issues/SKILL.md`. Read and follow it when the user wants a plan, spec, or PRD broken into tracer-bullet vertical slices and published as implementation issues on the project issue tracker. Source aligned with [mattpocock/skills to-issues](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-issues) (MIT; see `skills/to-issues/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
