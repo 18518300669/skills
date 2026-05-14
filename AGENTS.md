@@ -152,6 +152,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`next-best-practices`** ([skills.sh — vercel-labs/next-skills](https://skills.sh/vercel-labs/next-skills)) — `skills/next-best-practices/SKILL.md`. Read and follow it when writing, reviewing, or refactoring Next.js App Router code (file conventions, RSC boundaries, async `cookies`/`headers`/`params`, directives, data patterns, route handlers, metadata and OG images, `next/image` and `next/font`, bundling, scripts, hydration, Suspense, parallel and intercepting routes, self-hosting, and debugging). Source aligned with [vercel-labs/next-skills next-best-practices](https://github.com/vercel-labs/next-skills/tree/main/skills/next-best-practices) (MIT in skill frontmatter).
 
+- **`to-prd`** ([skills.sh — mattpocock/skills/to-prd](https://skills.sh/mattpocock/skills/to-prd)) — `skills/to-prd/SKILL.md`. Read and follow it when the user wants a PRD synthesized from current context and codebase understanding (no user interview), then published to the project issue tracker with the `ready-for-agent` triage label. Source aligned with [mattpocock/skills to-prd](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-prd) (MIT; see `skills/to-prd/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
