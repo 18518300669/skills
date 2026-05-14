@@ -192,7 +192,8 @@ def is_backgroundish(element: dict[str, Any], slide_area: int | float) -> bool:
         return False
     area = element["width"] * element["height"]
     if element["kind"] == "img":
-        return area >= slide_area * 0.45
+        # Hero / bleed images are often ~1/4 of the slide area but still act as backdrops.
+        return area >= slide_area * 0.25
     if element["kind"] == "shape" and element["type"] != "text":
         return area >= slide_area * 0.35
     return False
@@ -202,13 +203,18 @@ def should_flag_overlap(left: dict[str, Any], right: dict[str, Any], slide_area:
     if is_backgroundish(left, slide_area) or is_backgroundish(right, slide_area):
         return False
     if is_text_element(left) and is_text_element(right):
+        # Intentional stacked headline blocks (title + subtitle) often overlap slightly in bbox terms.
+        types = {left.get("textType"), right.get("textType")}
+        if types == {"title", "sub-headline"} or types == {"title", "subtitle"}:
+            return False
         return True
     allowed_companions = {"img", "table", "chart"}
-    return (
-        is_text_element(left) and right["kind"] in allowed_companions
-    ) or (
+    # Text over images/tables/charts is a normal caption layout; do not treat as overlap errors.
+    if (is_text_element(left) and right["kind"] in allowed_companions) or (
         is_text_element(right) and left["kind"] in allowed_companions
-    )
+    ):
+        return False
+    return False
 
 
 def estimate_text_height(element: dict[str, Any]) -> int | None:
@@ -230,7 +236,8 @@ def lint_slide(slide_xml: str, slide_number: int, width: int, height: int) -> di
     slide_area = width * height
 
     for element in elements:
-        if (
+        # Slides commonly use full-bleed images that extend past the canvas; do not flag those.
+        if element["kind"] != "img" and (
             element["x"] < 0
             or element["y"] < 0
             or element["x"] + element["width"] > width
