@@ -222,6 +222,8 @@ This repository (`cursor-cloud-test`) is a minimal starter repository. It contai
 
 - **`diagnose`** ([skills.sh leaderboard #42](https://skills.sh/mattpocock/skills/diagnose)) — `skills/diagnose/SKILL.md`. Read and follow it for disciplined diagnosis of hard bugs and performance regressions: reproduce, minimise, hypothesise, instrument, fix, and regression-test; includes `scripts/hitl-loop.template.sh` for human-in-the-loop reproduction when automation is not possible. Source aligned with [mattpocock/skills engineering/diagnose](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnose) (MIT; see `skills/diagnose/LICENSE.txt`).
 
+- **`zoom-out`** ([skills.sh leaderboard #44](https://skills.sh/mattpocock/skills/zoom-out)) — `skills/zoom-out/SKILL.md`. Read and follow it when the user is unfamiliar with a code area and needs a higher-level map of relevant modules, callers, and how the piece fits the wider system (use the project's domain glossary vocabulary). Source aligned with [mattpocock/skills engineering/zoom-out](https://github.com/mattpocock/skills/tree/main/skills/engineering/zoom-out) (MIT; see `skills/zoom-out/LICENSE.txt`).
+
 **Current state:**
 - No package manager, no dependency manifest, no build system.
 - No services to start, no tests to run, no lint checks configured.
