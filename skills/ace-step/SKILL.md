@@ -268,7 +268,7 @@ ACE Step and ElevenLabs Music are different tools:
 
 Cheap draft pattern: draft tag combos with ACE Step → lock vibe → final render on ElevenLabs Music if a polished commercial cut is needed.
 
-For the routing skill that picks between them automatically based on intent, see [`ai-music`](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/ai-music) once it ships.
+For the routing skill that picks between them automatically based on intent, see [`ai-music`](../ai-music/SKILL.md).
 
 ---
 
