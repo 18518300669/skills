@@ -1,0 +1,1 @@
+The procedural content in `reference/normalize.md` is vendored from the **normalize** skill published on [skills.sh](https://skills.sh/pbakaus/impeccable/normalize) (sourced from [pbakaus/impeccable](https://github.com/pbakaus/impeccable)). Upstream skill metadata: Apache License 2.0; see `LICENSE.txt` and upstream `NOTICE.md` for full attribution.
