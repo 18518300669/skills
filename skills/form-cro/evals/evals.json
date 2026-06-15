@@ -1,0 +1,46 @@
+{
+  "skill_name": "form-cro",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Our demo request form has 9 fields and only 12% of people who start it finish. Can you help us improve completion?",
+      "expected_output": "Should check for product-marketing context first. Should identify form type (demo request) and ask about field-level analytics if missing. Should apply the every-field-has-a-cost principle and recommend removing or deferring nonessential fields. Should address multi-step vs single-step, field order, phone optional vs required, and submit button copy. Output should include a form audit with prioritized fixes and test hypotheses.",
+      "assertions": [
+        "Checks for product-marketing context",
+        "Identifies form type as demo request",
+        "Applies field-count / friction principle",
+        "Recommends removing or deferring nonessential fields",
+        "Addresses submit button copy or CTA",
+        "Provides prioritized recommendations",
+        "Includes test hypotheses"
+      ],
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "We want to gate our ebook download but aren't sure whether to ask for just email or email + name + company. What should we test?",
+      "expected_output": "Should identify lead capture / gated content form type. Should compare email-only vs enriched fields with completion trade-offs. Should recommend clear value proposition above the form and post-submission enrichment. Should propose specific A/B tests and note measurement (start rate, completion rate, lead quality).",
+      "assertions": [
+        "Identifies lead capture form type",
+        "Compares email-only vs additional fields",
+        "Mentions value proposition near form",
+        "Proposes A/B tests",
+        "Mentions completion or quality metrics"
+      ],
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Mobile users abandon our contact form at the phone number field. Desktop is fine. What's going wrong?",
+      "expected_output": "Should focus on mobile form UX: touch targets, keyboard types, optional phone rationale, inline validation, and error messaging. Should question whether phone is required and suggest making it optional or explaining why it is needed. Should recommend mobile-specific patterns (single column, sticky submit, autofill).",
+      "assertions": [
+        "Focuses on mobile form UX",
+        "Addresses phone field specifically",
+        "Considers making phone optional or justifying requirement",
+        "Mentions inline validation or error handling",
+        "Recommends mobile-specific patterns"
+      ],
+      "files": []
+    }
+  ]
+}
