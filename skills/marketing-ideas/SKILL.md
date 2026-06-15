@@ -164,5 +164,5 @@ When recommending ideas, provide for each:
 - **programmatic-seo**: For scaling SEO content (#4)
 - **competitors**: For comparison pages (#11)
 - **emails**: For email marketing tactics
-- **free-tools**: For engineering as marketing (#15)
+- **free-tool-strategy**: For engineering as marketing (#15)
 - **referrals**: For viral growth (#93)
