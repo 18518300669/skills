@@ -165,4 +165,4 @@ When recommending ideas, provide for each:
 - **competitors**: For comparison pages (#11)
 - **emails**: For email marketing tactics
 - **free-tool-strategy**: For engineering as marketing (#15)
-- **referrals**: For viral growth (#93)
+- **referral-program**: For viral growth (#93)
