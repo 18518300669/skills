@@ -1,0 +1,1 @@
+The procedural content in `reference/onboard.md` is vendored from the **impeccable** skill in [pbakaus/impeccable](https://github.com/pbakaus/impeccable) (`skill/reference/onboard.md`, mirrored under agent harness paths). Upstream skill metadata: Apache License 2.0; see `LICENSE.txt` and upstream `NOTICE.md` for full attribution.
