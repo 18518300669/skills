@@ -1,0 +1,1 @@
+The procedural content in `reference/extract.md` is vendored from the **extract** skill published on [skills.sh](https://skills.sh/pbakaus/impeccable/extract) (sourced from [pbakaus/impeccable](https://github.com/pbakaus/impeccable), `skill/reference/extract.md`). Upstream skill metadata: Apache License 2.0; see `LICENSE.txt` and upstream `NOTICE.md` for full attribution.
