@@ -1,0 +1,1 @@
+The procedural content in `reference/harden.md` is vendored from the **harden** skill published on [skills.sh](https://skills.sh/pbakaus/impeccable/harden) (sourced from [pbakaus/impeccable](https://github.com/pbakaus/impeccable)). Upstream skill metadata: Apache License 2.0; see `LICENSE.txt` and upstream `NOTICE.md` for full attribution.
