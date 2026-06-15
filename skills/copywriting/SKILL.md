@@ -248,5 +248,6 @@ For headlines and CTAs, provide 2-3 options:
 - **copy-editing**: For polishing existing copy (use after your draft)
 - **page-cro**: If page structure/strategy needs work, not just copy
 - **email-sequence**: For email copywriting
+- **lead-magnets**: For planning gated content and opt-in offers
 - **popup-cro**: For popup and modal copy
 - **ab-test-setup**: To test copy variations
