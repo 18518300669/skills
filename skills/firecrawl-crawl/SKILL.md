@@ -53,6 +53,7 @@ firecrawl crawl <job-id>
 
 ## See also
 
+- [firecrawl-map](../firecrawl-map/SKILL.md) — discover URLs before crawling a section
 - [firecrawl-scrape](../firecrawl-scrape/SKILL.md) — scrape individual pages
 - [firecrawl](../firecrawl/SKILL.md) — install/auth, search, map, interact, and workflow escalation
 - [firecrawl-search](../firecrawl-search/SKILL.md) — web search with optional scrape on results
