@@ -1,6 +1,6 @@
 ---
 name: form-cro
-description: When the user wants to optimize forms for conversion — lead capture, contact, demo request, application, survey, checkout, or quote forms. Also use when the user mentions "form optimization," "form abandonment," "form completion rate," "too many form fields," "form friction," "multi-step form," "form validation," "form UX," "nobody completes the form," "people drop off on field 3," or "reduce form fields." Use this for non-signup forms and field-level optimization. For account signup/registration flows, see signup. For the page around the form, see page-cro. For popups/modals containing forms, see popups.
+description: When the user wants to optimize forms for conversion — lead capture, contact, demo request, application, survey, checkout, or quote forms. Also use when the user mentions "form optimization," "form abandonment," "form completion rate," "too many form fields," "form friction," "multi-step form," "form validation," "form UX," "nobody completes the form," "people drop off on field 3," or "reduce form fields." Use this for non-signup forms and field-level optimization. For account signup/registration flows, see signup-flow-cro. For the page around the form, see page-cro. For popups/modals containing forms, see popups.
 metadata:
   version: 2.0.0
 ---
@@ -19,7 +19,7 @@ This skill is the **form-cro** workflow from the [skills.sh leaderboard #359](ht
 
 - **`skills/page-cro/SKILL.md`** — homepage, landing, pricing, or feature page conversion (page-level CRO)
 - **`skills/onboarding-cro/SKILL.md`** — post-signup activation and first-run product onboarding
-- Signup/registration account-creation flows (use catalog skill `signup` when vendored)
+- Signup/registration account-creation flows (`skills/signup-flow-cro/SKILL.md`)
 
 ## Procedure
 
